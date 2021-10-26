@@ -1,1 +1,0 @@
-return keluaran === 1 || keluaran % 2 === 0? "Lampu Menyala" : "Lampu Mati";
